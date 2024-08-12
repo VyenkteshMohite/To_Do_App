@@ -1,2 +1,4 @@
-# To_Do_App
-To_Do App_using MEAN
+# mean_mytasklist
+MEAN application to manage tasks
+This app is testing the Docker, GIT, Jenkins and AWS deployment automation.
+Part of the ESTATEABLY BLOCKCHAIN project.
